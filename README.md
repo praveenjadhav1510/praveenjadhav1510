@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m praveen jadhav<br>👀 I’m interested in web development and deploy...<br>🌱 I’m currently learning BAC 3rd sem at RLS BCA College...<br>💞️ I’m looking to collaborate (not-for-now)...<br>📫 How to reach me praveenjadhav1510@gmail.com...<br>🖤 Know as: Jarvis...<br>⚡ Fun fact: Im introvert...
+👋 Hi, I’m praveen jadhav<br>👀 I’m interested in web development and deploy...<br>🌱 I’m currently learning BAC 5th sem at RLS BCA College...<br>💞️ I’m looking to collaborate...<br>📫 How to reach me praveenjadhav1510@gmail.com...<br>🖤 Know as: Jarvis...<br>⚡ Fun fact: Im introvert...
 
 
 ## 🌐 Socials:
