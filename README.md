@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m praveen jadhav<br>👀 I’m interested in web development and deploy...<br>🌱 I’m currently learning BAC 5th sem at RLS BCA College...<br>💞️ I’m looking to collaborate...<br>📫 How to reach me praveenjadhav1510@gmail.com...<br>🖤 Know as: Jarvis...
+👋 Hi, I’m praveen jadhav<br>👀 I’m interested in web development and deploy...<br>🌱 I’m currently learning BCA 5th sem at RLS BCA College...<br>💞️ I’m looking to collaborate...<br>📫 How to reach me praveenjadhav1510@gmail.com...<br>🖤 Know as: Jarvis...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/code.snippet._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praveen-jadhav-2880a6288/) 
