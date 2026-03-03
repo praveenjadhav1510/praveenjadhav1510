@@ -1,12 +1,10 @@
-# 💫 About Me:
-👋 Hi, I’m Praveen Jadhav  <br>
-👀 I’m passionate about web development and deployment  <br>
-🎓 I’ve completed my BCA from RLS BCA College  <br>
-💼 I’m looking to collaborate on exciting frontend and full-stack projects  <br>
-📫 Reach me at: praveenjadhav1510@gmail.com  <br>
-🖤 You can also call me: Jarvis <br>
-
-
+# About Me:
+Hi, I’m Praveen Jadhav  <br>
+I’m passionate about web development and deployment  <br>
+I’ve completed my BCA from RLS BCA College  <br>
+I’m looking to collaborate on exciting frontend and full-stack projects  <br>
+Reach me at: praveenjadhav1510@gmail.com  <br>
+You can also call me: Jarvis <br>
 
 ## Socials: Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-jadhav-2880a6288) 
